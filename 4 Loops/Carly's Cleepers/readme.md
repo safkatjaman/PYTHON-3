@@ -77,7 +77,7 @@ Find the average daily revenue by dividing total_revenue by 7. Call this number 
 12.
 Carly thinks she can bring in more customers by advertising all of the haircuts she has that are under 30 dollars.
 
-Use a list comprehension to create a list called cuts_under_30 that has the entry hairstyles[i] for each i for which new_prices[ i ] is less than 30.
+Use a list comprehension to create a list called cuts_under_30 that has the entry hairstyles[ i ] for each i for which new_prices[ i ] is less than 30.
 
 You can use range() in your list comprehension to make i go from 0 to len(new_prices) - 1.
 
